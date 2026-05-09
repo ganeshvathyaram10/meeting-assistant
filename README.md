@@ -1,5 +1,7 @@
 🎙️ AI Meeting Assistant
 An AI-powered meeting assistant that transforms transcripts or audio recordings into summaries, action items, and follow-up emails — automatically.
+
+
 Live Demo: meeting-assistant1.netlify.app
 
 ✨ Features
