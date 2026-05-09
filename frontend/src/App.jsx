@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react"
 import axios from "axios"
 
-const API = "http://127.0.0.1:8000"
+const API = "https://meeting-assistant-backend-production-3af8.up.railway.app"
 
 export default function App() {
   const [title, setTitle] = useState("")
